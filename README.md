@@ -1,4 +1,4 @@
-# Jobs Apps
+# Blogs Apps
 
 Spring Jwt + Rest api +Unit test + Mysql
 
